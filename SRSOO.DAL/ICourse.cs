@@ -12,5 +12,5 @@ namespace SRSOO.IDAL
         Course GetCourse(string courseNumber);
 
         void GetPreRequisites(Course course);
-    }  
+    }
 }

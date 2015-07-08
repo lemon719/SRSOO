@@ -12,5 +12,5 @@ namespace SRSOO.IDAL
         User GetUser(int id);
 
         User GetUser(string userName);
-    }  
+    }
 }

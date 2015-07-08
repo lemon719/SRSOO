@@ -8,5 +8,5 @@ namespace SRSOO.IDAL
     public interface ISchedule
     {
         ScheduleOfClasses GetScheduleOfClasses(string semester);
-    }  
+    }
 }

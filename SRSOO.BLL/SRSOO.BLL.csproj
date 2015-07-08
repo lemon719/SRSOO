@@ -44,10 +44,6 @@
     <Compile Include="UserService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SRSOO.DAL\SRSOO.IDAL.csproj">
-      <Project>{d62a672c-4ee0-4659-adfa-dfb9e1b19425}</Project>
-      <Name>SRSOO.IDAL</Name>
-    </ProjectReference>
     <ProjectReference Include="..\SRSOO.Model\SRSOO.Model.csproj">
       <Project>{2d0f6888-f847-4df3-a08e-835f963ad4eb}</Project>
       <Name>SRSOO.Model</Name>

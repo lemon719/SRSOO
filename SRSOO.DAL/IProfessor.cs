@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SRSOO.IDAL
 {
-    
+
     interface IProfessor
     {
 

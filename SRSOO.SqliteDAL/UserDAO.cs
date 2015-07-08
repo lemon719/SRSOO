@@ -12,10 +12,10 @@ namespace SRSOO.SqliteDAL
 {
     public class DataBase
     {
-        
+
     }
-    
-    public class UserDAO: DataBase,IUser
+
+    public class UserDAO : DataBase, IUser
     {
         public void Insert(User user)
         {
